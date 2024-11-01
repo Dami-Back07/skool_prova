@@ -1,1 +1,1 @@
-web: gunicorn skool-prova.wsgi
+web: gunicorn skool_prova.wsgi
